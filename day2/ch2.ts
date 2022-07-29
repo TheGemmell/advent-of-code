@@ -1,7 +1,5 @@
 import fs from 'fs';
 
-
-
 function calculateDistance(arr: string[]) {
   let horizontal = 0;
   let depth = 0;
